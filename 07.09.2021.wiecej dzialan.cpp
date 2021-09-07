@@ -6,7 +6,7 @@ int main()
 		int dzialanie;
 	cout<<"wpisz typ dzialania, ktore chcesz wykonac(dodawanie=1, odejmowanie=2, mnozenie=3, dzielenie=4) i wcisnij enter: \n"; 
 	cin>>dzialanie;
-	//nie wiem jak inaczej to zrobic, wyskakuje error za kazdym razem jak uzywam string zeby nie musiec wpisywac liczb tylko samo "dodawanie", "odejmowanie" itd	
+	/*nie wiem jak inaczej to zrobic, wyskakuje error za kazdym razem jak uzywam string zeby nie musiec wpisywac liczb tylko samo "dodawanie", "odejmowanie" itd	
     
 	cout<<"wpisz liczbe pierwsza i wcisnij enter\n";
 	    
@@ -18,7 +18,7 @@ int main()
 		cin>>liczba2;
 		
 		cout<<"wynik twojego dzialania to:\n";
-//nie wiem tez jak zrobic zeby nie byly te liczby w nowej linijce wiec robie wszystko w nowej
+/*nie wiem tez jak zrobic zeby nie byly te liczby w nowej linijce wiec robie wszystko w nowej
 	
 	
     	
